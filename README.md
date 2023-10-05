@@ -1,2 +1,3 @@
-# repository-basic
-test basic repository functions
+# 과제1
+학번: 2019732068
+이름: 배경환
